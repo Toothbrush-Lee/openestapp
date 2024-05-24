@@ -1,0 +1,5 @@
+site_name: Open Environment Science & Technology Application
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
