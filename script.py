@@ -40,12 +40,12 @@ if __name__ == "__main__":
     with open('./docs/grade.md', 'w', encoding="utf-8") as f:
         f.write(docs_origin.replace('$programs_list', ''.join(docs_content)))
 
-    with open('./blogs_list.yml', 'r', encoding='utf-8') as f:
-        content = yaml.safe_load(f)
-    docs_content = list()
-    for blog in content:
-        docs_content.append('[{0}]({0}.md)\n\n'.format(blog))
-    with open('./docs/blog.md', 'r', encoding="utf-8") as f:
-        docs_origin = f.read()
-    with open('./docs/blog.md', 'w', encoding="utf-8") as f:
-        f.write(docs_origin.replace('$blogs_list', ''.join(docs_content)))
+    # with open('./blogs_list.yml', 'r', encoding='utf-8') as f:
+    #     content = yaml.safe_load(f)
+    # docs_content = list()
+    # for blog in content:
+    #     docs_content.append('[{0}]({0}.md)\n\n'.format(blog))
+    # with open('./docs/blog.md', 'r', encoding="utf-8") as f:
+    #     docs_origin = f.read()
+    # with open('./docs/blog.md', 'w', encoding="utf-8") as f:
+    #     f.write(docs_origin.replace('$blogs_list', ''.join(docs_content)))
