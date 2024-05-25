@@ -2,25 +2,25 @@
 
 本文档是开源协同创作的，欢迎用户贡献内容
 
-## 评论区
+## 1. 评论区
 
-欢迎在评论区讨论，我会精选信息编入 pages, 这种方法试用于对 Git/GitHub 的操作一窍不通的同学, 建议在评论区留下联系方式，以便我联系你表示感谢.
+欢迎在评论区讨论，我会精选信息编入 pages, 这种方法适用于有GitHub账号, 但不愿/不会操作 Pull Request 的同学.
 
-## 发邮件
+## 2. 发邮件
 
-你也可以直接通过邮件发送你的内容，我会帮你添加到 pages 中，邮件地址: [me@linxuan.li](mailto:me@linxuan.li)
+如果连GitHub账号也不愿注册, 你也可以直接通过邮件发送你的内容，我会帮你添加到 pages 中，邮件地址: [me@linxuan.li](mailto:me@linxuan.li)
 
-## Pull Request（推荐）
+## 3. Pull Request（推荐）
 
 PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进行贡献内容，允许维护者进行审核。
 
 下面演示通过 GitHub 网站进行无代码 PR 的最佳实践
 
-1. 点击想要更改的页面右上角的编辑图标（铅笔形状），注意编辑选校梯度直接点击`选校梯度`页面编辑按钮
+1. 点击想要更改的页面右上角的编辑图标（铅笔形状）
 
    ![](images/1.png)
 
-   ![](images/1-1.png)
+   <!-- ![](images/1-1.png) -->
 
 2. 初次提交点击`Fork this repository`将仓库 fork 到自己的账户下
 
@@ -30,7 +30,7 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
    ![](images/3.png)
 
-4. 点击`Create pull request`向`Open-CS-Application.github.io:master`分支发起 Pull Request
+4. 点击`Create pull request`向`openestapp:main`分支发起 Pull Request
 
    ![](images/4.png)
 

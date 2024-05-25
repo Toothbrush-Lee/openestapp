@@ -9,9 +9,9 @@
 **本站内容开源协同创作，期待你[贡献内容](contribute.md)。如果你喜欢这个网站，请点亮 :star:Star 支持我！**
 
 ## 项目简介
-本项目受到 [open-cs-application](https://opencs.app) 的启发, 旨在为环境科学与工程专业背景的研究生申请者提供一个快速了解可以申请的保研/出国项目难度和特点的平台。您可以在下方评论区提供您的宝贵意见，或者通过 Pull Request 的方式参与贡献。
+本项目受到 [open-cs-application](https://opencs.app) 的启发, 旨在为**环境科学与工程**专业背景的研究生申请者提供一个快速了解可以申请的保研/出国项目难度和特点的平台。您可以在下方评论区提供您的宝贵意见，或者通过 Pull Request 的方式参与贡献。
 
-!!! note "贴士"
+!!! note "小贴士"
        **手机用户点击左边栏可展开项目列表.**
 
 
@@ -23,7 +23,7 @@
   <img src="https://contrib.rocks/image?repo=Toothbrush-Lee/openestapp" />
 </a>
 
-## 创意共享许可协议
+## 内容许可协议
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]

@@ -1,33 +1,17 @@
 site_name: Open ES&T Application
 site_author: Toothbrush Lee
 site_url: https://app.linxuan.li
-nav:
-  - Open ES&T Application: 
-    - Home: index.md
-    - 境内升学:
-        Master:
-          - PKU@PKU.md
-        PhD:
-          - PhD@PKU.md
-    - 境外升学:
-        Master:
-          - ENVH@Stanford.md
-        PhD:
-          - PhD@MIT.md
-    # - 转行:
-    - 内容征集令: contributing.md
-    - 使用指南: guide.md
+
 theme: 
   name: material
   custom_dir: overrides
   features:
     - announce.dismiss
-    - navigation.tabs
     - navigation.sections
     - toc.integrate
     - toc.follow
     - navigation.top
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.footer
     - navigation.instant
     - search.suggest
@@ -114,3 +98,22 @@ repo_name: openestapp
 edit_uri: edit/main/docs/
 extra_css:
   - stylesheets/extra.css
+
+nav:
+  - Open ES&T Application: 
+    - Home: index.md
+    - 境内保研/考研:
+        Master:
+          - PKU@PKU.md
+        PhD:
+          - PhD@PKU.md
+    - 境外留学:
+        Master:
+          - ENVH@Stanford.md
+        PhD:
+          - PhD@MIT.md
+    - 转专业升学:
+        - MSCS@MIT.md
+    - 内容投稿指南: contributing.md
+    - 使用指南: guide.md
+    - 实用链接: links.md
