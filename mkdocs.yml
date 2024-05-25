@@ -4,14 +4,19 @@ site_url: https://app.linxuan.li
 nav:
   - Open ES&T Application: 
     - Home: index.md
-$programs_list
-    # - 境内升学: domestic.md
-      # - PhD: 
-      # - Master: 
-    # - 境外升学: overseas.md
-  - 内容征集: contributing.md
+    - 境内升学:
+        Master:
+          - PKU@PKU.md
+        PhD:
+          - PhD@PKU.md
+    - 境外升学:
+        Master:
+          - ENVH@Stanford.md
+        PhD:
+          - PhD@MIT.md
+    # - 转行:
+  - 内容征集令: contributing.md
   - 使用指南: guide.md
-  - 选校梯度: grade.md
 theme: 
   name: material
   custom_dir: overrides
