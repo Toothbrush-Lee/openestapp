@@ -6,6 +6,26 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://app.linxuan.li/ENVH%40Stanford/</loc>
+         <lastmod>2024-05-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/PKU%40PKU/</loc>
+         <lastmod>2024-05-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/PhD%40MIT/</loc>
+         <lastmod>2024-05-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/PhD%40PKU/</loc>
+         <lastmod>2024-05-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://app.linxuan.li/about/</loc>
          <lastmod>2024-05-25</lastmod>
          <changefreq>daily</changefreq>
@@ -16,22 +36,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://app.linxuan.li/domestic/</loc>
-         <lastmod>2024-05-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://app.linxuan.li/grade/</loc>
-         <lastmod>2024-05-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://app.linxuan.li/guide/</loc>
-         <lastmod>2024-05-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://app.linxuan.li/overseas/</loc>
          <lastmod>2024-05-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
