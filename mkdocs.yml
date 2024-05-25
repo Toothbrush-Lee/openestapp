@@ -1,6 +1,109 @@
 site_name: Open ES&T Application
+site_author: Toothbrush Lee
+site_url: https://app.linxuan.li
 nav:
-  - Home: index.md
-  - About: about.md
+  - Open ES&T Application: 
+    - Home: index.md
+    - 境内升学: domestic.md
+# $programs_list
+    - 境外升学: overseas.md
+  - 内容征集: contributing.md
+  - 使用指南: guide.md
+  - 选校梯度: grade.md
 theme: 
   name: material
+  custom_dir: overrides
+  features:
+    - announce.dismiss
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - toc.follow
+    - navigation.top
+    - navigation.tabs
+    - navigation.footer
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - content.action.edit
+  # language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/toothbrush-lee"  target="_blank" rel="noopener">Toothbrush Lee</a>
+
+markdown_extensions:
+  - meta
+  - attr_list
+  - md_in_html
+  - admonition
+  - tables
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+  - social
+  - glightbox:
+      loop: true
+      zoomable: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+
+extra:
+  # homepage: /grade/
+  social:
+    # - icon: fontawesome/brands/email
+    #   link: mailto:me@linxuan.li
+    # - icon: fontawesome/brands/discord
+    #   link: https://discord.gg/HeB9QXZdFR
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/toothbrush-lee
+    # - icon: fontawesome/brands/twitter
+    #   link: https://twitter.com/TheJamesWillett
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://www.linkedin.com/in/willettjames/
+  analytics:
+    provider: google
+    property: G-MNJTDW6X03
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - manage 
+repo_url: https://github.com/Toothbrush-Lee/openestapp
+repo_name: openestapp
+edit_uri: edit/main/docs/
+extra_css:
+  - stylesheets/extra.css
