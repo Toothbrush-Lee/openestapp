@@ -1,4 +1,4 @@
-# 欢迎来到 Open CS Application
+# 欢迎来到 Open ES&T Application
 
 
 OpenESTApp follows [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
