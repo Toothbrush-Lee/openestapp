@@ -15,8 +15,8 @@ nav:
         PhD:
           - PhD@MIT.md
     # - 转行:
-  - 内容征集令: contributing.md
-  - 使用指南: guide.md
+    - 内容征集令: contributing.md
+    - 使用指南: guide.md
 theme: 
   name: material
   custom_dir: overrides
