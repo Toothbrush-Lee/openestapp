@@ -1,11 +1,27 @@
 # 欢迎来到 Open ES&T Application
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
+[![GitHub watchers](https://img.shields.io/github/watchers/Toothbrush-Lee/openestapp?style=social)](https://github.com/Toothbrush-Lee/openestapp/subscription)
+[![GitHub forks](https://img.shields.io/github/forks/Toothbrush-Lee/openestapp?style=social)](https://github.com/Toothbrush-Lee/openestapp/fork)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Toothbrush-Lee/openestapp?style=social)](https://github.com/Toothbrush-Lee/openestapp)
+[![GitHub followers](https://img.shields.io/github/followers/Toothbrush-Lee?style=social)](https://github.com/Toothbrush-Lee)
+
+**本站内容开源协同创作，期待你[贡献内容](contribute.md)。如果你喜欢这个网站，请点亮 :star:Star 支持我！**
+
 ## 项目简介
 本项目受到 [open-cs-application](https://opencs.app) 的启发, 旨在为环境科学与工程专业背景的研究生申请者提供一个快速了解可以申请的保研/出国项目难度和特点的平台。您可以在下方评论区提供您的宝贵意见，或者通过 Pull Request 的方式参与贡献。
 
-## 作者
+!!! note "贴士"
+       **手机用户点击左边栏可展开项目列表.**
+
+
+## 贡献名单
 - 项目发起人: [Toothbrush Lee](mailto:me@linxuan.li)
-- 项目协作者: Remain to be updated
+- Github 贡献者:
+
+<a href="https://github.com/Toothbrush-Lee/openestapp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Toothbrush-Lee/openestapp" />
+</a>
 
 ## 创意共享许可协议
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
