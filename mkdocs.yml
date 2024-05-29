@@ -103,20 +103,46 @@ nav:
   - Open ES&T Application: 
     - Home: index.md
     - 境外留学:
-        Master:
+        - North America:
+          - Standford.md
+          - MPP@Harvard.md
+          - Econ-PhD@Yale.md
+          - SPIA-PhD@Princeton.md
+          - EGG@UCDavis.md
+          - Env-PhD@UCLA.md  
+          - ESM@JHU.md
+          - ESM@NYU.md
+          - ESM@UMich.md
+          - Geo@UWM.md
+          - ERMorPhD@UWM.md
+          - MDP@Berkeley.md
+          - MES@UPenn.md
+        - EU:
           - Erasmus_Mundus.md
-          - ETH.md
-          - UZH.md
           - EPFL.md
-        PhD:
-          - PhD@MIT.md
-    - 境内保研/考研:
-        Master:
-          - PKU@PKU.md
-        PhD:
-          - PhD@PKU.md
+          - ERM@KU.md     
+          - ESM@ETH.md
+          - MtecM@ETH.md
+          - IEM@Leiden.md
+          - IEM@NTNU.md
+          - UZH.md
+        - UK & HK & SG:
+          - Cambridge.md
+          - Oxford.md
+          - LSE.md
+          - UCL.md
+          - ICL.md
+          - NUS.md
+          - NTU.md
+          - HKU.md
+          - CUHK.md
+          - HKUST.md
+          - CityU.md
+          - PolyU.md
+    - 境内升学:
+        - PKU-LSE@PKU.md
     - 转专业:
-        - MSCS@MIT.md
+        - Demo@MIT.md
     # - 投稿模板: PhD@MIT.md
     - 内容投稿指南: contributing.md
     - 使用指南: guide.md
