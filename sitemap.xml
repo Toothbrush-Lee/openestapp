@@ -6,7 +6,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://app.linxuan.li/ENVH%40Stanford/</loc>
+         <loc>https://app.linxuan.li/CUHK/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/Cambridge/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/CityU/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/Demo%40MIT/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/EGG%40UCDavis/</loc>
          <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -16,7 +36,42 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://app.linxuan.li/ETH/</loc>
+         <loc>https://app.linxuan.li/ERM%40KU/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/ERMorPhD%40UWM/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/ESM%40ETH/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/ESM%40JHU/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/ESM%40NYU/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/ESM%40UMich/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/Econ-PhD%40Yale/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/Env-PhD%40UCLA/</loc>
          <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -26,17 +81,97 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://app.linxuan.li/PKU%40PKU/</loc>
+         <loc>https://app.linxuan.li/Geo%40UWM/</loc>
          <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://app.linxuan.li/PhD%40MIT/</loc>
+         <loc>https://app.linxuan.li/HKU/</loc>
          <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://app.linxuan.li/PhD%40PKU/</loc>
+         <loc>https://app.linxuan.li/HKUST/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/ICL/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/IEM%40Leiden/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/IEM%40NTNU/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/LSE/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/MDP%40Berkeley/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/MES%40UPenn/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/MPP%40Harvard/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/MtecM%40ETH/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/NTU/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/NUS/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/Oxford/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/PKU-LSE%40PKU/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/PolyU/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/SPIA-PhD%40Princeton/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/Standford/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/UCL/</loc>
          <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
