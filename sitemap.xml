@@ -111,6 +111,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://app.linxuan.li/KAUST/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/KyotoU/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://app.linxuan.li/LSE/</loc>
          <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
@@ -176,6 +186,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://app.linxuan.li/UTokyo/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://app.linxuan.li/UZH/</loc>
          <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
@@ -187,6 +202,11 @@
     </url>
     <url>
          <loc>https://app.linxuan.li/guide/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/kanazawaU/</loc>
          <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
