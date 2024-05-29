@@ -17,7 +17,7 @@
 
 ## 贡献名单
 - 项目发起人: [Toothbrush Lee](mailto:me@linxuan.li)
-- 作者列表:  BNU-Env-2024-发枣鱼, BNU-Env-2024-WWH
+- 作者列表:  BNU-Env-2024-Joey, BNU-Env-2024-WWH
 <!-- - Github 贡献者:
 
 <a href="https://github.com/Toothbrush-Lee/openestapp/graphs/contributors">
