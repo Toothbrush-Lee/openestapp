@@ -59,7 +59,7 @@ markdown_extensions:
 
 plugins:
   - search
-  - social
+  # - social
   - glightbox:
       loop: true
       zoomable: true
@@ -74,8 +74,8 @@ extra:
     #   link: mailto:me@linxuan.li
     # - icon: fontawesome/brands/discord
     #   link: https://discord.gg/HeB9QXZdFR
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/toothbrush-lee
+    # - icon: fontawesome/brands/github-alt
+    #   link: https://github.com/toothbrush-lee
     # - icon: fontawesome/brands/twitter
     #   link: https://twitter.com/TheJamesWillett
     # - icon: fontawesome/brands/linkedin
@@ -102,18 +102,22 @@ extra_css:
 nav:
   - Open ES&T Application: 
     - Home: index.md
+    - 境外留学:
+        Master:
+          - Erasmus_Mundus.md
+          - ETH.md
+          - UZH.md
+          - EPFL.md
+        PhD:
+          - PhD@MIT.md
     - 境内保研/考研:
         Master:
           - PKU@PKU.md
         PhD:
           - PhD@PKU.md
-    - 境外留学:
-        Master:
-          - ENVH@Stanford.md
-        PhD:
-          - PhD@MIT.md
-    - 转专业升学:
+    - 转专业:
         - MSCS@MIT.md
+    # - 投稿模板: PhD@MIT.md
     - 内容投稿指南: contributing.md
     - 使用指南: guide.md
     - 实用链接: links.md

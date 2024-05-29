@@ -10,7 +10,7 @@
 
 如果连GitHub账号也不愿注册, 你也可以直接通过邮件发送你的内容，我会帮你添加到 pages 中，邮件地址: [me@linxuan.li](mailto:me@linxuan.li)
 
-## 3. Pull Request（推荐）
+## 3. Online Pull Request（推荐）
 
 PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进行贡献内容，允许维护者进行审核。
 
@@ -42,3 +42,6 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
    ![](images/6.png)
 
+## 4. Fork and PR
+
+如果你熟悉 Git 的操作，可以直接 Fork 本仓库，然后在本地进行修改，可以自由的增减文件，最后提交 PR 即可。(具体操作应该不需要我教了吧😄)

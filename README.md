@@ -1,4 +1,5 @@
 Open ES&T Application
 
-Founder: Toothbrush Lee
-Co-developed by: Students from BNU Env. School
+A platform for graduate applicants with a background in environmental science and engineering to quickly understand the difficulty and characteristics of the projects that can be applied for. You can provide your valuable opinions in the comment area below, or contribute through Pull Request.
+
+Inspired by open-cs-application.    
