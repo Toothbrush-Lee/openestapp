@@ -2,52 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://app.linxuan.li/</loc>
-         <lastmod>2024-05-25</lastmod>
+         <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://app.linxuan.li/ENVH%40Stanford/</loc>
-         <lastmod>2024-05-25</lastmod>
+         <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://app.linxuan.li/MSCS%40MIT/</loc>
-         <lastmod>2024-05-25</lastmod>
+         <loc>https://app.linxuan.li/EPFL/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/ETH/</loc>
+         <lastmod>2024-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://app.linxuan.li/Erasmus_Mundus/</loc>
+         <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://app.linxuan.li/PKU%40PKU/</loc>
-         <lastmod>2024-05-25</lastmod>
+         <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://app.linxuan.li/PhD%40MIT/</loc>
-         <lastmod>2024-05-25</lastmod>
+         <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://app.linxuan.li/PhD%40PKU/</loc>
-         <lastmod>2024-05-25</lastmod>
+         <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://app.linxuan.li/about/</loc>
-         <lastmod>2024-05-25</lastmod>
+         <loc>https://app.linxuan.li/UZH/</loc>
+         <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://app.linxuan.li/contributing/</loc>
-         <lastmod>2024-05-25</lastmod>
+         <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://app.linxuan.li/guide/</loc>
-         <lastmod>2024-05-25</lastmod>
+         <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://app.linxuan.li/links/</loc>
-         <lastmod>2024-05-25</lastmod>
+         <lastmod>2024-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
