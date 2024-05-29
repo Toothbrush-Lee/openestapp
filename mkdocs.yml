@@ -103,7 +103,7 @@ nav:
   - Open ES&T Application: 
     - Home: index.md
     - 境外留学:
-        - North America:
+        - US:
           - Standford.md
           - MPP@Harvard.md
           - Econ-PhD@Yale.md
@@ -126,19 +126,28 @@ nav:
           - IEM@Leiden.md
           - IEM@NTNU.md
           - UZH.md
-        - UK & HK & SG:
+        - UK:
           - Cambridge.md
           - Oxford.md
           - LSE.md
           - UCL.md
           - ICL.md
+        - Singapore:
           - NUS.md
           - NTU.md
+        - HK:
           - HKU.md
           - CUHK.md
           - HKUST.md
           - CityU.md
           - PolyU.md
+        - Japan:
+          - kanazawaU.md
+          - UTokyo.md
+          - KyotoU.md
+        - Others:
+          - KAUST.md
+        
     - 境内升学:
         - PKU-LSE@PKU.md
     - 转专业:
