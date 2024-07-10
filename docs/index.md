@@ -17,7 +17,12 @@
 
 ## 贡献名单
 - 项目发起人: [Toothbrush Lee](mailto:me@linxuan.li)
-- 作者列表:  BNU-Env-2024-Joey, BNU-Env-2024-WWH
+- 作者列表:  
+| Author | Contribution | Placement | Contact Info |
+| BNU-Env-2024-Joey | Europe | UZH | |
+| BNU-Env-2024-WWH | North America | ESM@ETH | |
+| BNU-Env-2025-WYL | 3E@THU | 3E@THU | |
+  
 <!-- - Github 贡献者:
 
 <a href="https://github.com/Toothbrush-Lee/openestapp/graphs/contributors">
