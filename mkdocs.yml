@@ -149,7 +149,7 @@ nav:
         - Others:
           - overseas/KAUST.md
         
-    - 境内升学(夏令营 考研):
+    - 境内升学:
         - domestic/北大LSE双学位@PKU.md
         - domestic/环院@PKU.md
         - domestic/城环@PKU.md
@@ -165,9 +165,20 @@ nav:
         - domestic/环院@SJTU.md
     - 转专业:
         - Demo@MIT.md
+    # - 职业生涯规划:
+        # - Tenure.md
+        # - NGO.md
+        # - UN.md
+        # - domestic-civil-servant.md
+        # - Startup.md
+        # - Consulting.md
+        # - Finance:
+        # - ESG-investment.md
+
     # - 投稿模板: PhD@MIT.md
     - 内容投稿指南: contributing.md
-    - 使用指南: guide.md
+    # - 使用指南: guide.md
     - 实用链接: links.md
-    - 聊聊中介: 关于中介.md
-    - 港澳台生申请概述: 港澳台生申请概述.md
+    - 关于: anti-zhangxuefengism.md
+    # - 聊聊中介: 关于中介.md
+    # - 港澳台生申请概述: 港澳台生申请概述.md

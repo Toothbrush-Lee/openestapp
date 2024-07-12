@@ -1,6 +1,6 @@
 UMich Env Sus Master
 
-https://seas.umich.edu/academics/master-science
+[https://seas.umich.edu/academics/master-science](https://seas.umich.edu/academics/master-science)
 
 Bar低于Mich平均，小红书有很多案例
 
@@ -9,3 +9,5 @@ Bar低于Mich平均，小红书有很多案例
 学费比私立还贵
 
 一大堆搞新能源汽车的老师
+
+**贡献者:BNU-Env-2024-WWH**
